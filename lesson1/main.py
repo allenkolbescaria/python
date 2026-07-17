@@ -1,5 +1,2 @@
-print("hello my name is allen")
-print("this is my first time in codingal")
-print("i am from kerala")
-print("my hobby is cycling")
-print("my other hobby is reading ")
+for i in range(1,100,2):
+    print(i)
