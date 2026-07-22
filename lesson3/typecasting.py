@@ -1,0 +1,12 @@
+age="10"
+print(age)
+print(type(age))
+i=int(age)
+print(i)
+print(type(age))
+mark=95.6
+print(mark)
+print(type(mark))
+l=int(mark)
+print(l)
+print(type(l))
